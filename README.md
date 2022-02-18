@@ -1,6 +1,6 @@
 # csi-jetsonnao-opeation
 
-Jetson-nano 4gb module and CSI camera V2.1\
+Jetson-nano 4gb module and CSI camera V2.1
 
 ## test camera
 test camera before running\
@@ -20,7 +20,7 @@ run following command\
   
   
   ### jpi.py
-The jpi file contains following functions\
+The jpi module contains following functions\
 
 1.strat() takes 4 arguments\
    position of camera i.e sensor_id=0 or 1\
